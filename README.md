@@ -14,13 +14,13 @@ The dataset is taken from kaggle website:
 https://www.kaggle.com/datasets/gti-upm/leapgestrecog
 
 ## 💡 The benefit of this project:
--✅Download the data
--✅Rearrange data in sorted folders with renaming images
--✅Manually split data into [Train, Test, Valid]
--✅Data Preparation
--✅Build CNN model
--✅Evaluate the model
--✅Classify images
+- ✅Download the data
+- ✅Rearrange data in sorted folders with renaming images
+- ✅Manually split data into [Train, Test, Valid]
+- ✅Data Preparation
+- ✅Build CNN model
+- ✅Evaluate the model
+- ✅Classify images
 
 ## Technologies Used
 - Python
